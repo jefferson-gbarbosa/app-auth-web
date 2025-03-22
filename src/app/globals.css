@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    /* --color-*: initial; */
+  
+  --color-danger: #F05D6C;
+  --color-light-green: #6EE7B7
+  --font-sans: var(--font-montserrat);
+     
+}
