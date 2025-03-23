@@ -24,6 +24,7 @@ A aplicação utiliza as seguintes tecnologias:
 * React Spinners: Biblioteca para exibir indicadores de carregamento enquanto a aplicação processa dados ou aguarda respostas de requisições.
 * @radix-ui/react-form: Componente acessível da Radix UI para a construção de formulários, com foco em boas práticas de acessibilidade e UI.
 * @radix-ui/themes: Biblioteca da Radix UI que oferece temas prontos e componentes que ajudam na criação de interfaces coesas e responsivas.
+
 Frontend
 * Next.js (15.1.7): Framework React para aplicações otimizadas para SEO e renderização do lado do servidor (SSR).
 * React (19.0.0) e React DOM (19.0.0): Biblioteca para criação de interfaces dinâmicas e componentes reutilizáveis.
@@ -33,18 +34,22 @@ Frontend
 * React Spinners (0.15.0): Conjunto de componentes para spinners de carregamento.
 * Axios (1.8.1): Cliente HTTP para comunicação com APIs.
 * JS Cookie (3.0.5): Manipulação de cookies no navegador.
+
 Estilização
 * Tailwind CSS (4.0.8): Framework CSS utilitário para estilização rápida e responsiva.
 * Tailwind Merge (3.0.2): Mescla de classes do Tailwind para evitar conflitos.
 * @tailwindcss/postcss (4.0.8) e PostCSS (8.5.3): Processamento CSS moderno.
+
 Validação
 * Zod (3.24.2): Biblioteca para validação e tipagem segura de dados.
 * @hookform/resolvers (4.1.2): Integração do Zod com o React Hook Form para validação de formulários.
+
 Autenticação
 * App Auth Web: Módulo de autenticação próprio utilizado na plataforma.
 Desenvolvimento e Tipagem
 * TypeScript (5.x): Superset do JavaScript com tipagem estática.
 * @types/node (20.x), @types/react (19.x), @types/react-dom (19.x), @types/js-cookie (3.0.6): Tipagens TypeScript para bibliotecas utilizadas.
+
 Ferramentas de Desenvolvimento
 * @biomejs/biome (1.9.4): Ferramenta para formatação, linting e otimização de código.
 
